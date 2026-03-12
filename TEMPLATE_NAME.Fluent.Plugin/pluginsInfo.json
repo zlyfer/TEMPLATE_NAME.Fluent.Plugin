@@ -1,0 +1,11 @@
+{
+	"IsEnabled": true,
+	"InstalledVersion": "1.0.0.0",
+	"Name": "TEMPLATE_DISPLAYNAME",
+	"DisplayName": "TEMPLATE_DISPLAYNAME",
+	"Description": "TEMPLATE_DESC",
+	"PublisherName": "zlyfer",
+	"Version": "1.0.0.0",
+	"URL": "https://github.com/zlyfer/TEMPLATE_NAME.Fluent.Plugin",
+	"IconGlyph": "\uf003"
+}
